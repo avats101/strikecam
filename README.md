@@ -1,6 +1,6 @@
 # StrikeCam
 
-StrikeCam is a project focused on detecting and classifying military assets in images and videos using advanced computer vision techniques. To setup the Pi and laptop, follow the instructions mentioned in the [Setup Instructions](setup.pdf) document. The project is designed to run on a Raspberry Pi, which captures images and sends them to a laptop for processing and analysis.
+StrikeCam is a project focused on detecting and classifying military assets in images and videos using advanced computer vision techniques. To setup the Pi and laptop, follow the instructions mentioned in the [Setup Instructions](setup.pdf) document. Following the documentation you could be able to achieve this [demonstration](https://youtube.com/shorts/MGN6QMfUiwU) The project is designed to run on a Raspberry Pi, which captures images and sends them to a laptop for processing and analysis. 
 
 ## Dataset
 
